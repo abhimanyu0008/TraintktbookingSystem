@@ -183,6 +183,6 @@ public class TrainTicketBookingSystem {
 
         System.out.println("\n--- Ticket Details ---");
         bookingToPrint.displayDetails();
-        System.out.println("-----------------------");
+        System.out.println("-------");
     }
 }
